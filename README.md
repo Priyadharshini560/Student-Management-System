@@ -16,4 +16,4 @@
 2. Run the executable file
 
 ## Author
-Priya
+Priyadharshini
